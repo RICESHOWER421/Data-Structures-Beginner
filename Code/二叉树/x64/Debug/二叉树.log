@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(二叉树.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Heap.c
+C:\Users\34289\Desktop\学习分区\编程学习资料\C语言学习资料\学习项目（VS2022专用）\二叉树\Heap.c(163,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  二叉树.vcxproj -> C:\Users\34289\Desktop\学习分区\编程学习资料\C语言学习资料\学习项目（VS2022专用）\二叉树\x64\Debug\堆.exe

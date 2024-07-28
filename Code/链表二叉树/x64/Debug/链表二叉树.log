@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\34289\Desktop\学习分区\编程学习资料\C语言学习资料\学习项目（VS2022专用）\链表二叉树\main.c(174,6): warning C4013: “fabs”未定义；假设外部返回 int
+C:\Users\34289\Desktop\学习分区\编程学习资料\C语言学习资料\学习项目（VS2022专用）\链表二叉树\main.c(20): warning C4716: “InitTree”: 必须返回一个值
+  链表二叉树.vcxproj -> C:\Users\34289\Desktop\学习分区\编程学习资料\C语言学习资料\学习项目（VS2022专用）\链表二叉树\x64\Debug\链表二叉树.exe

@@ -1,0 +1,3 @@
+﻿  SList.c
+C:\Users\34289\Desktop\学习分区\编程学习资料\C语言学习资料\学习项目（VS2022专用）\链表\SList.c(179,7): warning C4047: “初始化”:“SLT *”与“SLT ***”的间接级别不同
+  链表.vcxproj -> C:\Users\34289\Desktop\学习分区\编程学习资料\C语言学习资料\学习项目（VS2022专用）\链表\x64\Debug\链表.exe
